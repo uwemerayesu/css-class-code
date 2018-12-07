@@ -8,7 +8,7 @@ header{
     padding: 20px;
 }
 header h1{
-    color:#FF953F;
+    color:rgb(79, 255, 63);
     margin-top:0;
     float: left;
     width: 25%;
@@ -42,16 +42,18 @@ nav li a{
 }
 
 #left-section{
-    float: left;
-    width: 20%;
-}
-
-#main-section{
+   
     
 }
 
-#right-section{
-  
+#main-section
+{
+    
+}
+
+#right-section
+{
+ 
     
   
 }
