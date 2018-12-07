@@ -4,7 +4,7 @@ body{
 
 header{
     display: float;
-    background: #36424A;
+    background:rgb(0, 0, 255);
     padding: 20px;
 }
 header h1{
@@ -52,10 +52,12 @@ nav li a{
 
 #right-section{
   
+    
+  
 }
 
 footer{
-    background: #36424A;
+    background: rgb(0, 0, 255);
     padding: 25px;
 
 }
